@@ -1,0 +1,17 @@
+img {
+    width: 100px;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+a:hover {
+    background-color: red;
+}
